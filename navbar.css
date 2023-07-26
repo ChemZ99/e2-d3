@@ -1,0 +1,35 @@
+.navbarContainer {
+  display: flex;
+  background-color: #fbf7e3;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 10vw;
+  width: 90vw;
+  border-radius: 100px;
+  margin: auto;
+}
+
+.sideButton {
+  background-color: #f3df85;
+  width: 12%;
+  border-radius: 50px;
+  text-align: center;
+  color: #612406;
+}
+
+.mainButton {
+  background-color: #f3df85;
+  display: flex;
+  width: 25%;
+  height: 70%;
+  border-radius: 50px;
+  justify-content: space-around;
+  align-items: center;
+  font-weight: 900;
+  font-size: 25px;
+  color: #612406;
+}
+
+.mainButton img {
+  height: 80%;
+}

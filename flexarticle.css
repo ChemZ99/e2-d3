@@ -1,0 +1,9 @@
+.flexArtContainer {
+  display: flex;
+  background-color: #fbf7e3;
+  margin: 1em;
+  padding: 1.5em;
+  border-radius: 30px;
+  column-gap: 2em;
+  color: #612406;
+}
